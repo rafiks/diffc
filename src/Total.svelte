@@ -1,1 +1,1 @@
-<p>Total Cells Counted</p>
+<div bp="grid"><p>Total Cells Counted</p></div>
