@@ -1,7 +1,7 @@
-<div bp="grid 1"><p>Patient Demographics</p></div>
+<div bp="grid 12"><p>Patient Demographics</p></div>
 
 <style>
     p {
-        background-color: blueviolet;
+        background-color: lightsteelblue;
     }
 </style>

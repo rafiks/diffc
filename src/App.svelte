@@ -5,12 +5,12 @@
     import Morphology from "./Morphology.svelte";
 </script>
 
-<div bp="grid"><h1>Manual Differential Cell Counter</h1></div>
+<div bp="grid 12"><h1>Manual Differential Cell Counter</h1></div>
 <PatientDemo />
-<div bp="grid4">
-    <Instrument />
-    <ManDiff />
-    <Morphology />
+<div bp="grid 4">
+    <div><Instrument /></div>
+    <div><ManDiff /></div>
+    <div><Morphology /></div>
 </div>
 
 <style>
