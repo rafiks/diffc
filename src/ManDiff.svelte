@@ -53,16 +53,11 @@
     <p>Total = {total_cells}</p>
     <div>Segs = {segs}</div>
     <div>Lymp = {lymp}</div>
-    <div>
-        <ul>
-            <li th />
-            <li />
-            <li />
-            <li />
-            <li />
-        </ul>
-    </div>
+    <div />
 </div>
 
 <Keylog />
 <Total />
+
+<style>
+</style>

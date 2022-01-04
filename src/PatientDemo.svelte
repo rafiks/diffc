@@ -2,6 +2,9 @@
 
 <style>
     p {
-        background-color: lightsteelblue;
+        background-color: rgba(45, 100, 80, 100);
+    }
+    div {
+        margin: 0;
     }
 </style>
